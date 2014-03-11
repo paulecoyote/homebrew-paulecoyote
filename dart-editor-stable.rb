@@ -1,3 +1,5 @@
+require "formula"
+
 class DartEditorStable < Formula
   url "http://gsdview.appspot.com/dart-archive/channels/stable/release/33014/editor/darteditor-macos-x64.zip"
   homepage "http://www.dartlang.org/tools/editor/"

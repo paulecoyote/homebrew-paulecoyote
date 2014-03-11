@@ -1,3 +1,5 @@
+require "formula"
+
 class DartContentShellStable < Formula
   url "http://gsdview.appspot.com/dart-archive/channels/stable/release/33014/dartium/content_shell-macos-ia32-release.zip"
   homepage "http://www.dartlang.org/tools/editor/"
