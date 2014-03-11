@@ -6,7 +6,13 @@ class DartContentShellStable < Formula
   version "33014"
   md5 "4ec3aca03b87490143e6554ab875aef2"
   
-    def install
+          conflicts_with 'dart-content-shell-dev', :because => 'installation of dart-dsk tools in path'
+        conflicts_with 'dart-content-shell-edge', :because => 'installation of dart-dsk tools in path'
+          conflicts_with 'dart', :because => 'installation of dart-dsk tools in path'
+  conflicts_with 'dart-editor', :because => 'installation of dart-dsk tools in path'
+  depends_on :arch => :x86_64
+
+  def install
     prefix.install Dir['*']
 
       content_shell_path = prefix+'chromium/content_shell'

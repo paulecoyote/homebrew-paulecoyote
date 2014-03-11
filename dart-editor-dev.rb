@@ -6,7 +6,22 @@ class DartEditorDev < Formula
   version "33495"
   md5 "c4a9755dd54e49c4993e7043728713d5"
   
-  def install
+  conflicts_with 'dart-editor-edge', :because => 'installation of dart-dsk tools in path'
+conflicts_with 'dart-editor-edge-cs', :because => 'installation of dart-dsk tools in path'
+conflicts_with 'dart-editor-stable', :because => 'installation of dart-dsk tools in path'
+  conflicts_with 'dart', :because => 'installation of dart-dsk tools in path'
+  conflicts_with 'dart-editor', :because => 'installation of dart-dsk tools in path'
+  depends_on :arch => :x86_64
+
+def shim_script target
+    <<-EOS.undent
+      #!/bin/bash
+      export DART_SDK=#{prefix}/dart-sdk
+      exec "#{target}" "$@"
+    EOS
+  end
+
+def install
     prefix.install Dir['*']
 
     items = Dir[prefix+'dart-sdk/bin/*'].select { |f| File.file? f }
