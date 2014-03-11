@@ -6,8 +6,8 @@ class DartContentShellEdge < Formula
   version "33540"
   md5 "xml"
   
-          conflicts_with 'dart-content-shell-dev', :because => 'installation of dart-dsk tools in path'
-        conflicts_with 'dart-content-shell-stable', :because => 'installation of dart-dsk tools in path'
+  # conflicts_with 'dart-content-shell-dev', :because => 'installation of dart-dsk tools in path'
+# conflicts_with 'dart-content-shell-stable', :because => 'installation of dart-dsk tools in path'
           conflicts_with 'dart', :because => 'installation of dart-dsk tools in path'
   conflicts_with 'dart-editor', :because => 'installation of dart-dsk tools in path'
   depends_on :arch => :x86_64

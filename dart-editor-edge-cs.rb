@@ -6,11 +6,11 @@ class DartEditorEdgeCs < Formula
   version "33533"
   md5 "aaceaf2255671116edd0553801eca40a"
   
-          conflicts_with 'dart-editor-dev', :because => 'installation of dart-dsk tools in path'
-        conflicts_with 'dart-editor-edge', :because => 'installation of dart-dsk tools in path'
-        conflicts_with 'dart-editor-stable', :because => 'installation of dart-dsk tools in path'
+  # conflicts_with 'dart-editor-dev', :because => 'installation of dart-dsk tools in path'
+# conflicts_with 'dart-editor-edge', :because => 'installation of dart-dsk tools in path'
+# conflicts_with 'dart-editor-stable', :because => 'installation of dart-dsk tools in path'
           conflicts_with 'dart', :because => 'installation of dart-dsk tools in path'
-  conflicts_with 'dart-editor', :because => 'installation of dart-dsk tools in path'
+# conflicts_with 'dart-editor', :because => 'installation of dart-dsk tools in path'
   depends_on :arch => :x86_64
 
 def shim_script target
