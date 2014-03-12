@@ -1,10 +1,39 @@
 homebrew-paulecoyote
 ====================
 
-See brew.sh
+See http://brew.sh
+
+dart-editor
+===========
+
+Generated using: https://github.com/PaulECoyote/rubydartbrewery
+
+Currently updated frequently (on the hour for a few hours a day)
+
+**Install**
+brew tap PaulECoyote/homebrew-paulecoyote
+
+Choose version:
+* dart-editor-edge - latest edge
+* dart-editor-edge-cs - latest edge that has a content shell built for it
+* dart-editor-dev - latest dev
+* dart-editor-stable - latest stable build
+
+For just the editor and SDK:
+brew install dart-edtitor-dev
+
+You may also choose a content shell:
+brew install dart-content-shell-dev
+
+Afterwards use 
+brew linkapps
+
+This formula will conflict with dart, dart-editor and between versions of the dart-editors here.  Follow instructions given by brew to unlink / uninstall conflicting versions.
 
 darteditor
 ==========
+
+//Will be removed soon - does not work well//
 
 Based on http://work.j832.com/2013/11/if-you-do-any-open-source-development.html
 ...and dart-editor.rb found here:
