@@ -1,6 +1,6 @@
 DartEditorDev now version 1.3.0-dev.4.1 (revision 33731)
 DartEditorEdge now version 1.3.0-edge.34163 (revision 34163)
-DartEditorEdgeCs now version 1.3.0-edge.34159 (revision 34159)
+DartEditorEdgeCs now version 1.3.0-edge.34163 (revision 34163)
 DartEditorStable now version 1.2.0 (revision 33014)
 DartContentShellDev now version 1.3.0-dev.4.1 (revision 33731)
 DartContentShellEdge now version 1.3.0-edge.34163 (revision 34163)
