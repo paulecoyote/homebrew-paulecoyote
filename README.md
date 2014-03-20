@@ -1,16 +1,17 @@
 homebrew-paulecoyote
 ====================
 
-See http://brew.sh
+Homebrew forumula that track the three different channels of release for the Google Dart Editor + SDK and Content Shell.  #dartlang #dart
 
 dart-editor
 ===========
 
 Generated using: https://github.com/PaulECoyote/rubydartbrewery
+Automatically generated and updated frequently (on the hour most hours of the day)
+Unlike other taps, this one also uses Google's provided md5 key as part of the forumula in addition to never being more than an hour behind.
 
-Currently updated frequently (on the hour for a few hours a day)
-
-**Install**
+Install
+-------
 brew tap PaulECoyote/homebrew-paulecoyote
 
 Choose version:
@@ -21,6 +22,8 @@ Choose version:
 
 For just the editor and SDK:
 brew install dart-edtitor-dev
+... though using a more qualified name may be necessary ...
+brew install paulecoyote/paulecoyote/dart-editor-dev
 
 You may also choose a content shell:
 brew install dart-content-shell-dev
@@ -30,33 +33,8 @@ brew linkapps
 
 This formula will conflict with dart, dart-editor and between versions of the dart-editors here.  Follow instructions given by brew to unlink / uninstall conflicting versions.
 
-darteditor
-==========
-
-//Will be removed soon - does not work well//
-
-Based on http://work.j832.com/2013/11/if-you-do-any-open-source-development.html
-...and dart-editor.rb found here:
-https://github.com/kevmoo/homebrew-kevmoo
-
-With any luck follows latest version of dev and raw.
-Also uses the md5 files made available by google.
-
-brew tap PaulECoyote/homebrew-paulecoyote
-
-To install latest dev with headless testing browser:
-brew install darteditor --with-content-shell
-
-To install latest *raw* with headless testing browser:
-brew install darteditor --devel --with-content-shell
-
-To install a shortcut to your apps folder and the dart command on your command line, execute this:
-brew linkapps
-
-In your path now will be:
-dart
-dart2js
-dartanalyzer
-dartdoc
-pub
-content_shell (if you added the option)
+Links
+=====
+* For Homebrew info see http://brew.sh
+* For the Google Dart language see https://www.dartlang.org/
+* For the scripts that generate these homebrew formula see https://github.com/PaulECoyote/rubydartbrewery
