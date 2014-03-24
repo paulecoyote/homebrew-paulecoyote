@@ -4,7 +4,7 @@ class DartContentShellEdge < Formula
   url "http://gsdview.appspot.com/dart-archive/channels/be/raw/34290/dartium/content_shell-macos-ia32-release.zip"
   homepage "http://www.dartlang.org/tools/editor/"
   version "34290"
-  md5 "7dbc4ed4bf633964fd8365dbfd92de83"
+  md5 "3ba431376404960ebf26f60ebd95ef05"
   
   # conflicts_with 'dart-content-shell-dev', :because => 'installation of dart-dsk tools in path'
 # conflicts_with 'dart-content-shell-stable', :because => 'installation of dart-dsk tools in path'
