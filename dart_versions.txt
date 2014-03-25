@@ -1,7 +1,7 @@
 DartEditorDev now version 1.3.0-dev.6.1 (revision 34284). Zip: http://gsdview.appspot.com/dart-archive/channels/dev/release/34284/editor/darteditor-macos-x64.zip
-DartEditorEdge now version 1.3.0-edge.34359 (revision 34359). Zip: http://gsdview.appspot.com/dart-archive/channels/be/raw/34359/editor/darteditor-macos-x64.zip
-DartEditorEdgeCs now version 1.3.0-edge.34351 (revision 34351). Zip: http://gsdview.appspot.com/dart-archive/channels/be/raw/34351/editor/darteditor-macos-x64.zip
+DartEditorEdge now version 1.3.0-edge.34362 (revision 34362). Zip: http://gsdview.appspot.com/dart-archive/channels/be/raw/34362/editor/darteditor-macos-x64.zip
+DartEditorEdgeCs now version 1.3.0-edge.34358 (revision 34358). Zip: http://gsdview.appspot.com/dart-archive/channels/be/raw/34358/editor/darteditor-macos-x64.zip
 DartEditorStable now version 1.2.0 (revision 33014). Zip: http://gsdview.appspot.com/dart-archive/channels/stable/release/33014/editor/darteditor-macos-x64.zip
 DartContentShellDev now version 1.3.0-dev.6.1 (revision 34284). Zip: http://gsdview.appspot.com/dart-archive/channels/dev/release/34284/dartium/content_shell-macos-ia32-release.zip
-DartContentShellEdge now version 1.3.0-edge.34359 (revision 34359). Zip: http://gsdview.appspot.com/dart-archive/channels/be/raw/34359/dartium/content_shell-macos-ia32-release.zip
+DartContentShellEdge now version 1.3.0-edge.34362 (revision 34362). Zip: http://gsdview.appspot.com/dart-archive/channels/be/raw/34362/dartium/content_shell-macos-ia32-release.zip
 DartContentShellStable now version 1.2.0 (revision 33014). Zip: http://gsdview.appspot.com/dart-archive/channels/stable/release/33014/dartium/content_shell-macos-ia32-release.zip
