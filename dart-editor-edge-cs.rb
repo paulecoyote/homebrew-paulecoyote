@@ -4,7 +4,7 @@ class DartEditorEdgeCs < Formula
   url "http://gsdview.appspot.com/dart-archive/channels/be/raw/34501/editor/darteditor-macos-x64.zip"
   homepage "http://www.dartlang.org/tools/editor/"
   version "34501"
-  md5 "462c1fa00be3d24cde1bbdc88583e906"
+  md5 "3a8f9d5d3cd15b441c08ab2ad20ff9ca"
   
   # conflicts_with 'dart-editor-dev', :because => 'installation of dart-dsk tools in path'
 # conflicts_with 'dart-editor-edge', :because => 'installation of dart-dsk tools in path'
