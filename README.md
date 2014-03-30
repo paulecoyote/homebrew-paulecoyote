@@ -38,3 +38,7 @@ Links
 * For Homebrew info see http://brew.sh
 * For the Google Dart language see https://www.dartlang.org/
 * For the scripts that generate these homebrew formula see https://github.com/PaulECoyote/rubydartbrewery
+* Based on work originally done by Kevin Moore. This alternative wraps up the content shell and is manually maintained.  See: 
+    * http://work.j832.com/2013/11/if-you-do-any-open-source-development.html
+    * https://github.com/kevmoo/homebrew-kevmoo
+    
