@@ -8,7 +8,7 @@ dart-editor
 
 Generated using: https://github.com/PaulECoyote/rubydartbrewery
 Automatically generated and updated frequently (on the hour most hours of the day)
-Unlike other taps, this one also uses Google's provided md5 key as part of the forumula in addition to never being more than an hour behind.
+Unlike other taps, this one also uses Google's provided md5 key as part of the formula in addition to never being more than an hour behind.
 
 Install
 -------
