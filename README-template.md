@@ -1,7 +1,7 @@
 homebrew-paulecoyote
 ====================
 
-Homebrew forumula that track the three different channels of release for the Google Dart Editor + SDK and Content Shell.  #dartlang #dart
+Homebrew formula that track the three different channels of release for the Google Dart Editor + SDK and Content Shell.  #dartlang #dart
 
 dart-editor
 ===========
