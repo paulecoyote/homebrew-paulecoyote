@@ -1,7 +1,7 @@
 require "formula"
 
 class DartEditorDev < Formula
-  url "http://gsdview.appspot.com/dart-archive/channels/dev/release/34497/editor/darteditor-macos-x64.zip"
+  url "http://storage.googleapis.com/dart-archive/channels/dev/release/34497/editor/darteditor-macos-x64.zip"
   homepage "http://www.dartlang.org/tools/editor/"
   version "34497"
   md5 "221fcbb705dc66357d27e69242103e69"

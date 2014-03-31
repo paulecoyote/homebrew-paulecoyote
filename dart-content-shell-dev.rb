@@ -1,7 +1,7 @@
 require "formula"
 
 class DartContentShellDev < Formula
-  url "http://gsdview.appspot.com/dart-archive/channels/dev/release/34497/dartium/content_shell-macos-ia32-release.zip"
+  url "http://storage.googleapis.com/dart-archive/channels/dev/release/34497/dartium/content_shell-macos-ia32-release.zip"
   homepage "http://www.dartlang.org/tools/editor/"
   version "34497"
   md5 "b7ab3469be0ff812b695947011ec8626"
