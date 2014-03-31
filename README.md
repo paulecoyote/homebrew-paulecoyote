@@ -44,6 +44,8 @@ Links
 
 Versions
 ========
+| Edition | Version | Revision | Archive | MD5 |
+| ------- | ------- | -------- | ------- | --- |
 | DartEditorDev | 1.3.0-dev.7.5 | 34497 | [Zip](http://gsdview.appspot.com/dart-archive/channels/dev/release/34497/editor/darteditor-macos-x64.zip) | [md5](http://gsdview.appspot.com/dart-archive/channels/dev/release/34497/editor/darteditor-macos-x64.zip.md5sum) |
 | DartEditorEdge | 1.3.0-edge.34555 | 34555 | [Zip](http://gsdview.appspot.com/dart-archive/channels/be/raw/34555/editor/darteditor-macos-x64.zip) | [md5](http://gsdview.appspot.com/dart-archive/channels/be/raw/34555/editor/darteditor-macos-x64.zip.md5sum) |
 | DartEditorEdgeCs | 1.3.0-edge.34553 | 34553 | [Zip](http://gsdview.appspot.com/dart-archive/channels/be/raw/34553/editor/darteditor-macos-x64.zip) | [md5](http://gsdview.appspot.com/dart-archive/channels/be/raw/34553/editor/darteditor-macos-x64.zip.md5sum) |
