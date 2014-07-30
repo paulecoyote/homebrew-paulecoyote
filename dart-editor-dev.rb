@@ -1,10 +1,10 @@
 require "formula"
 
 class DartEditorDev < Formula
-  url "http://storage.googleapis.com/dart-archive/channels/dev/release/38380/editor/darteditor-macos-x64.zip"
+  url "http://storage.googleapis.com/dart-archive/channels/dev/release/38621/editor/darteditor-macos-x64.zip"
   homepage "http://www.dartlang.org/tools/editor/"
-  version "38380"
-  md5 "1a0b8c76e79d6679d8db5586bb87356a"
+  version "38621"
+  md5 "f37abab6f1ea8bacdcd9838fb2d03d37"
   
   # conflicts_with 'dart-editor-edge', :because => 'installation of dart-dsk tools in path'
 # conflicts_with 'dart-editor-edge-cs', :because => 'installation of dart-dsk tools in path'
