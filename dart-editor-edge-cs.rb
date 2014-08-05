@@ -1,8 +1,8 @@
 require "formula"
 
 class DartEditorEdgeCs < Formula
-  url "http://storage.googleapis.com/dart-archive/channels/be/raw/38900/editor/darteditor-macos-x64.zip"
-  homepage "http://www.dartlang.org/tools/editor/"
+  url "https://storage.googleapis.com/dart-archive/channels/be/raw/38900/editor/darteditor-macos-x64.zip"
+  homepage "https://www.dartlang.org/tools/editor/"
   version "38900"
   md5 "06ee7156c9747c60f0e00814dc19a205"
   

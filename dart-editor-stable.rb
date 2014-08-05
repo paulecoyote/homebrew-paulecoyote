@@ -1,8 +1,8 @@
 require "formula"
 
 class DartEditorStable < Formula
-  url "http://storage.googleapis.com/dart-archive/channels/stable/release/38663/editor/darteditor-macos-x64.zip"
-  homepage "http://www.dartlang.org/tools/editor/"
+  url "https://storage.googleapis.com/dart-archive/channels/stable/release/38663/editor/darteditor-macos-x64.zip"
+  homepage "https://www.dartlang.org/tools/editor/"
   version "38663"
   md5 "cdc1410aa136402dbe85039436122caf"
   

@@ -1,8 +1,8 @@
 require "formula"
 
 class DartContentShellEdge < Formula
-  url "http://storage.googleapis.com/dart-archive/channels/be/raw/38900/dartium/content_shell-macos-ia32-release.zip"
-  homepage "http://www.dartlang.org/tools/editor/"
+  url "https://storage.googleapis.com/dart-archive/channels/be/raw/38900/dartium/content_shell-macos-ia32-release.zip"
+  homepage "https://www.dartlang.org/tools/editor/"
   version "38900"
   md5 "e4fbd4e7d84fc429f5cf1d9181541814"
   
