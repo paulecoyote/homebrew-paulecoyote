@@ -9,7 +9,7 @@ class DartEditorEdge < Formula
   # conflicts_with 'dart-editor-dev', :because => 'installation of dart-dsk tools in path'
 # conflicts_with 'dart-editor-edge-cs', :because => 'installation of dart-dsk tools in path'
 # conflicts_with 'dart-editor-stable', :because => 'installation of dart-dsk tools in path'
-          conflicts_with 'dart', :because => 'installation of dart-dsk tools in path'
+        # conflicts_with 'dart', :because => 'installation of dart-dsk tools in path'
 # conflicts_with 'dart-editor', :because => 'installation of dart-dsk tools in path'
   depends_on :arch => :x86_64
 
