@@ -1,10 +1,10 @@
 require "formula"
 
 class DartContentShellEdge < Formula
-  url "https://storage.googleapis.com/dart-archive/channels/be/raw/43049/dartium/content_shell-macos-ia32-release.zip"
+  url "https://storage.googleapis.com/dart-archive/channels/be/raw/43051/dartium/content_shell-macos-ia32-release.zip"
   homepage "https://www.dartlang.org/tools/editor/"
-  version "43049"
-  md5 "0a5338af2001911e99d5f2c183766e05"
+  version "43051"
+  md5 "f6da94e5214f4296044f3f3762d6379a"
   
   # conflicts_with 'dart-content-shell-dev', :because => 'installation of dart-dsk tools in path'
 # conflicts_with 'dart-content-shell-stable', :because => 'installation of dart-dsk tools in path'
