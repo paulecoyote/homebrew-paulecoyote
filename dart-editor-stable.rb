@@ -5,7 +5,6 @@ class DartEditorStable < Formula
   homepage "https://www.dartlang.org/tools/editor/"
   version "45104"
   sha256 "4bb7be96abb2a742867a19020c299672adf59ffeb9ac9a63a9ffe9f998b7d806"
-  md5 "a7ab2fab7557250fd476a31aa1acb3d4"
 
   
   # conflicts_with 'dart-editor-dev', :because => 'installation of dart-dsk tools in path'
