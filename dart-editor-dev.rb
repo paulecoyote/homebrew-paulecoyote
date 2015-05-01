@@ -5,7 +5,6 @@ class DartEditorDev < Formula
   homepage "https://www.dartlang.org/tools/editor/"
   version "45369"
   md5 "b5f995e106cf31da1e358f6f26de7cd8"
-
   
   # conflicts_with 'dart-editor-edge', :because => 'installation of dart-dsk tools in path'
 # conflicts_with 'dart-editor-edge-cs', :because => 'installation of dart-dsk tools in path'

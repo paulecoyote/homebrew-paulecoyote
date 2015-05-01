@@ -5,8 +5,6 @@ class DartContentShellDev < Formula
   homepage "https://www.dartlang.org/tools/editor/"
   version "45369"
   sha256 "a1e56f8f639927ce76f0f248b1e63b4ef4466ad7d8ee88a641be94345e0703e4"
-  md5 "42cfa1ac4e3e35b9114b1c2b304b6deb"
-
   
   # conflicts_with 'dart-content-shell-edge', :because => 'installation of dart-dsk tools in path'
 # conflicts_with 'dart-content-shell-stable', :because => 'installation of dart-dsk tools in path'
